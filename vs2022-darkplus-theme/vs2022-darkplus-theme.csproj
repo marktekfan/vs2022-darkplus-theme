@@ -47,7 +47,7 @@
     <None Include="CustomTheme.vstheme">
       <SubType>Designer</SubType>
     </None>
-    <None Include="README.md" />
+    <None Include="..\README.md" />
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>
